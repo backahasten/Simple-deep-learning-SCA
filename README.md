@@ -5,6 +5,12 @@ Simple deep learning side channel attack. Experimental data set based on chipwhi
 
 使用了一些简单机器学习算法和一些简单的深度学习算法+特征提取算法，针对sbox out进行汉明重量的分类。
 
+## 作者
+
+backahasten   重庆邮电0xFA成员(已经毕业)   野生侧信道研究者
+
+mail ：backahasten@qq.com
+
 ## 内容
 
 [cw_template.py](https://github.com/backahasten/Simple-deep-learning-SCA/blob/master/cw_template.py)
